@@ -1,0 +1,82 @@
+[
+    {
+        "cs": 1.2779600000000002,
+        "cs_energy_cpu": 88.66070000000002,
+        "cs_energy_dram": 15.066410000000001,
+        "exe": 1.28842,
+        "exe_energy_cpu": 96.9271,
+        "exe_energy_dram": 14.668690000000002
+    },
+    {
+        "cs": 1.23813,
+        "cs_energy_cpu": 84.81459999999998,
+        "cs_energy_dram": 14.425219999999998,
+        "exe": 1.17448,
+        "exe_energy_cpu": 93.1404,
+        "exe_energy_dram": 14.13698
+    },
+    {
+        "cs": 1.09422,
+        "cs_energy_cpu": 84.99119999999999,
+        "cs_energy_dram": 14.420279999999998,
+        "exe": 1.41785,
+        "exe_energy_cpu": 101.6626,
+        "exe_energy_dram": 15.49202
+    },
+    {
+        "cs": 1.4261800000000002,
+        "cs_energy_cpu": 90.76469999999999,
+        "cs_energy_dram": 15.862449999999999,
+        "exe": 1.24399,
+        "exe_energy_cpu": 95.2265,
+        "exe_energy_dram": 14.37575
+    },
+    {
+        "cs": 1.2726499999999998,
+        "cs_energy_cpu": 78.24140000000003,
+        "cs_energy_dram": 13.664999999999997,
+        "exe": 1.30392,
+        "exe_energy_cpu": 99.6215,
+        "exe_energy_dram": 15.107000000000001
+    },
+    {
+        "cs": 1.0585200000000001,
+        "cs_energy_cpu": 76.8708,
+        "cs_energy_dram": 13.356729999999997,
+        "exe": 1.4531,
+        "exe_energy_cpu": 103.3606,
+        "exe_energy_dram": 15.81547
+    },
+    {
+        "cs": 1.2592100000000002,
+        "cs_energy_cpu": 79.63399999999999,
+        "cs_energy_dram": 13.890660000000004,
+        "exe": 1.17147,
+        "exe_energy_cpu": 93.1412,
+        "exe_energy_dram": 14.106639999999999
+    },
+    {
+        "cs": 1.3228199999999999,
+        "cs_energy_cpu": 84.23469999999998,
+        "cs_energy_dram": 15.00542,
+        "exe": 1.19905,
+        "exe_energy_cpu": 94.5661,
+        "exe_energy_dram": 14.19848
+    },
+    {
+        "cs": 1.3107900000000001,
+        "cs_energy_cpu": 85.5959,
+        "cs_energy_dram": 14.75061,
+        "exe": 1.18441,
+        "exe_energy_cpu": 93.25280000000001,
+        "exe_energy_dram": 14.111790000000001
+    },
+    {
+        "cs": 1.20187,
+        "cs_energy_cpu": 85.69190000000002,
+        "cs_energy_dram": 14.627099999999999,
+        "exe": 1.23076,
+        "exe_energy_cpu": 93.4319,
+        "exe_energy_dram": 14.132200000000001
+    }
+]
